@@ -14,6 +14,7 @@ public class MainClass {
 		System.out.println(i);
 		this.i = 300;
 		System.out.println(i);
+		System.out.println();
 	}
 
 	public static void main(String[] args) {
